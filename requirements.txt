@@ -1,0 +1,6 @@
+gradio
+requests
+termcolor
+openai
+tree_sitter
+faiss-cpu
