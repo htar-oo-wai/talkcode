@@ -1,2 +1,4 @@
 venv/
 code_repo/
+
+**/__pycache__/

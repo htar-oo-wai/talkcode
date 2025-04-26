@@ -4,3 +4,5 @@ termcolor
 openai
 tree_sitter
 faiss-cpu
+tree-sitter
+watchfiles

@@ -19,8 +19,8 @@ echo "Installing dependencies..."
 pip install --upgrade pip  # Ensure pip is up to date
 pip install -r requirements.txt
 
-echo "Stage 1."
-python main.py
+echo "Starting the app: Serving at http://127.0.0.1:7860"
+watchfiles "python app.py"
 
 # End of the script
 echo "Process completed successfully!"
